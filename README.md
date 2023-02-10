@@ -1,6 +1,6 @@
 # SY202 AY23 ICE01 Part B
 
-Students will analyze code of this program an modify it to gain understanding of C++ programming using the Keil Studio cloud compilier.
+Students will analyze code of this program and modify it to gain understanding of C++ programming using the Keil Studio cloud compilier.
 
 ## Application functionality
 
