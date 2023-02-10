@@ -17,7 +17,7 @@ Pseudo-Code for Part B
 1. Include the required header files for the mbed board
 2. Declare the required objects to:
      a. communicate with the computer over a serial port
-     b. turn on and off the first LED on the bottom left of the board
+     b. regulate the brightness of the first LED on the bottom left of the board (PWM Output)
 3. Declare a float variable to hold a value that will determine how bright the LED should come on
 4. Within the main function, print a message that tells the users instructions on how to change the LED brightness
 5. Create a loop that will constantly repeat without end
