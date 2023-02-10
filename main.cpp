@@ -6,9 +6,9 @@
  */
 
 /* 
-Instructions:  Read through this program and determine how the program works.  Add comments
+Instructions:  Read through this program and determine how it works.  Add comments
   to the code that describes what each line is doing.  Try your hand at modifying the code to
-  allow the LED to get brighter, and make each step bigger so that it changes faster.  Also
+  allow the LED to get brighter and make each step bigger so that it changes faster.  Also
   consider adding some more protections against users entering invalid responses.
 */
 
